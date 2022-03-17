@@ -57,6 +57,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"></a>
