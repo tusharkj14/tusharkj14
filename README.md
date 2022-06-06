@@ -20,8 +20,6 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Jamia Millia Islamia University.\
 🌱 &nbsp;I'm currently engaged in DSA Problem Solving on various websites such as LeetCode, GFG, SPOJ. I also do a little bit of Competitive Programming on websites like CodeForces, CodeChef and AtCoder.\
-✉️ &nbsp;You can shoot me an email at tusharkantijaiswal@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1lpGARHHcvvER9v5PjZd2WySpe1TscvVs/viewl) for more details about me. I'm open to feedback and suggestions!
 
 <h2>📃 Github Stats</h2>
 
