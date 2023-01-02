@@ -19,7 +19,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Jamia Millia Islamia University.\
-🌱 &nbsp;I'm currently engaged in DSA Problem Solving on various websites such as LeetCode, GFG, SPOJ. I also do a little bit of Competitive Programming on websites like CodeForces, CodeChef and AtCoder.\
+🌱 &nbsp;I'm currently engaged in DSA Problem Solving on various websites such as LeetCode, GFG, SPOJ. I also do a little bit of Competitive Programming on websites like CodeForces, CodeChef and AtCoder.
 
 <h2>⚡ Main Technologies</h2>
 
