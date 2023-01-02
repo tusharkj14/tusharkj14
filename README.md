@@ -21,28 +21,6 @@
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Jamia Millia Islamia University.\
 🌱 &nbsp;I'm currently engaged in DSA Problem Solving on various websites such as LeetCode, GFG, SPOJ. I also do a little bit of Competitive Programming on websites like CodeForces, CodeChef and AtCoder.\
 
-<h2>📃 Github Stats</h2>
-
-<br/>
-
-<diV>
-
-  <div align="center">
-    <a href="#"><img alt="Tushar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tusharkj14&show_icons=true&hide=contribs,prs&theme=highcontrast" height="200"/></a>
-    <a href="#"><img alt="Tushar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkj14&show_icons=true&layout=compact&theme=highcontrast" height="200"/></a>
-    <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-  </div>
-
-  <hr/>
-
-  <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tusharkj14&custom_title=Tushar%20Kanti%20Jaiswal's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
-  <div> 
-</div>
-
-<br/>
-
 <h2>⚡ Main Technologies</h2>
 
 <br/>
